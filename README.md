@@ -11,6 +11,7 @@
 * [Dashboards](http://developer.android.com/about/dashboards/index.html)
 * [Android Open Source Project - Issue Tracker - Google Code](https://code.google.com/p/android/)
 * [Google on Android - Android — Google Developers](https://developers.google.com/android/)
+* [Encryption](https://source.android.com/devices/tech/encryption/index.html)
 
 
 ## Github for Android
@@ -19,3 +20,18 @@
 * [battery-historian](https://github.com/google/battery-historian)
 * [google/dagger](https://github.com/google/dagger)
 * [trace-viewer](https://github.com/google/trace-viewer)
+
+
+## Platform Versions
+
+### November 3, 2014
+
+|Version|Codename|API|Distribution|
+|:-----------:|:------------:|:------------:|:------------:|
+|2.2|Froyo|8|0.6%|
+|2.3.3 - 2.3.7|Gingerbread|10|9.8%|
+|4.0.3 - 4.0.4|Ice Cream Sandwich|15|8.5%|
+|4.1.x|Jelly Bean|16|22.8%|
+|4.2.x|Jelly Bean|17|20.8%|
+|4.3|Jelly Bean|18|7.3%|
+|4.4|KitKat|19|30.2%|
