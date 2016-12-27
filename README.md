@@ -24,6 +24,23 @@
 
 ## Platform Versions
 
+### December 5, 2016
+
+|Version|Codename|API|Distribution|
+|:-----------:|:------------:|:------------:|:------------:|
+|2.2|Froyo|8|0.1% ( ±0.0% )|
+|2.3.3 - 2.3.7|Gingerbread|10|1.2% ( -0.1% )|
+|4.0.3 - 4.0.4|Ice Cream Sandwich|15|1.2% ( -0.1% )|
+|4.1.x|Jelly Bean|16|4.5% ( -0.4% )|
+|4.2.x|Jelly Bean|17|6.4% ( -0.4% )|
+|4.3|Jelly Bean|18|1.9% ( -0.1% )|
+|4.4|KitKat|19|24.0% ( -1.2% )|
+|5.0|Lollipop|21|10.8% ( -0.5% )|
+|5.1|Lollipop|22|23.2% ( +0.4% )|
+|6.0|Marshmallow|23|26.3% ( +2.3% )|
+|7.0|Nougat|24|0.4% ( +0.1% )|
+
+
 ### November 7, 2016
 
 |Version|Codename|API|Distribution|
